@@ -5,12 +5,17 @@ Welcome to the Weather Forecasting App! This project is designed to provide user
 
 Features:
 
-Current Weather Conditions: View real-time data such as temperature, weather description, humidity, wind speed, and more.
-5-Day Forecast: Access a detailed weather forecast for the next five days, including daily highs and lows.
-Search Functionality: Easily find weather information by entering a city name or geographical coordinates.
-Responsive Design: The application is fully responsive, providing an optimal experience on desktops, tablets, and smartphones.
-Unit Conversion: Toggle between metric and imperial units for temperature and wind speed.
-Error Handling: User-friendly error messages for invalid city names or API issues.
+> Current Weather Conditions: View real-time data such as temperature, weather description, humidity, wind speed, and more.
+
+> 5-Day Forecast: Access a detailed weather forecast for the next five days, including daily highs and lows.
+
+> Search Functionality: Easily find weather information by entering a city name or geographical coordinates.
+
+> Responsive Design: The application is fully responsive, providing an optimal experience on desktops, tablets, and smartphones.
+
+> Unit Conversion: Toggle between metric and imperial units for temperature and wind speed.
+
+> Error Handling: User-friendly error messages for invalid city names or API issues.
 
 Technologies Used:
 HTML: For structuring the web application.
