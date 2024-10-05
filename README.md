@@ -1,4 +1,4 @@
-Weather Forecasting App
+Weather Forecasting App \n
 Welcome to the Weather Forecasting App! This project is designed to provide users with real-time weather updates for any location around the world. Built using HTML, CSS, and JavaScript, this application leverages the OpenWeatherMap API to deliver accurate and up-to-date weather information.
 
 Features
@@ -42,7 +42,7 @@ A forecast section below displaying the next five days with high and low tempera
 
 Sample images of the Website
 
-https://github.com/user-attachments/assets/63ed58c2-ff00-4668-8670-e72cd13c716d
+![world1](https://github.com/user-attachments/assets/63ed58c2-ff00-4668-8670-e72cd13c716d)
 Worldpage
 https://github.com/user-attachments/assets/628124bf-0dcd-4064-9482-c6cf4ab5cb39
 Searchpage
